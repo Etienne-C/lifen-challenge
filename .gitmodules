@@ -1,0 +1,3 @@
+[submodule "app/ruby-jobs"]
+	path = app/ruby-jobs
+	url = https://github.com/honestica/ruby-jobs.git
